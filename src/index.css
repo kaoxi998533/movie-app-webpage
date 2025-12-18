@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 @import "tailwindcss";
-@source "./index.html";
-@source "./src/**/*.{js,ts,jsx,tsx}";
+@source "../index.html";
+@source "./**/*.{js,ts,jsx,tsx}";
 
 @theme {
   --color-primary: #030014;
